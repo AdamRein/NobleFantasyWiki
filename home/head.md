@@ -2,14 +2,14 @@
 title: Head
 description: Head Pieces
 published: true
-date: 2022-05-06T16:55:21.568Z
+date: 2022-05-06T17:02:38.067Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T16:36:43.684Z
 ---
 
 # Heads
-[Knight:](/home/knight/head)
+[Knight:](/home/knight)
 +25 HP to unit
 ![knight_helm.png](/head/knight_helm.png)
 Monk:
