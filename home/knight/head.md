@@ -2,15 +2,25 @@
 title: Knight Head
 description: 
 published: true
-date: 2022-05-06T16:48:49.413Z
+date: 2022-05-06T16:57:43.235Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-29T14:49:36.857Z
 ---
 
-# Knight Head
+# Knight
 ### Stats
 
-take info from sheet
-
+Head:
++25 HP
 ![knight_helm.png](/head/knight_helm.png)
+
+Body:
++25 HP
+![knight_armor.png](/knight_armor.png)
+
+Weapon:
+Range: 1
+Attack Speed: 6
+Damage: 5
+![curved_sword.png](/legs/curved_sword.png)
